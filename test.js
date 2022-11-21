@@ -4,4 +4,4 @@ if (2>1)
 }
 else{
     "no data"
-}
+}return
